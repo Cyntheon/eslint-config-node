@@ -1,5 +1,5 @@
 {
-  "name": "@cyntheon/eslint-config-typescript",
+  "name": "@cyntheon/eslint-config-node",
   "version": "2.1.0",
   "description": "An ESLint config for Node",
   "homepage": "https://github.com/Cyntheon/eslint-config-node",
