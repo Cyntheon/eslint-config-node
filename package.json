@@ -1,0 +1,25 @@
+{
+  "name": "@cyntheon/eslint-config-typescript",
+  "version": "2.1.0",
+  "description": "An ESLint config for Node",
+  "homepage": "https://github.com/Cyntheon/eslint-config-node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cyntheon/eslint-config-node"
+  },
+  "license": "MIT",
+  "author": "Cyntheon",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "eslint": "^8.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8",
+    "prettier": "^2"
+  }
+}
