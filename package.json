@@ -1,6 +1,6 @@
 {
   "name": "@cyntheon/eslint-config-node",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "An ESLint config for Node",
   "homepage": "https://github.com/Cyntheon/eslint-config-node",
   "repository": {
@@ -16,6 +16,7 @@
     "README.md"
   ],
   "dependencies": {
+    "@cyntheon/eslint-config-typescript": "^2.2.1",
     "eslint": "^7.32.0"
   },
   "peerDependencies": {
